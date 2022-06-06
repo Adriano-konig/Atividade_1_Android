@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Caixa supermercado</string>
+    <string name="nome_do_produto">Nome do produto</string>
+    <string name="Quantidade">Quantidade do produto</string>
+    <string name="valorProduto">Valor(unitário) do produto</string>
+</resources>
